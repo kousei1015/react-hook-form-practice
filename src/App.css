@@ -1,0 +1,38 @@
+.wrapper {
+  max-width: 1000px;
+  height: 100vh;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: beige;
+}
+
+form {
+  padding: 60px 30px;
+  background-color: #fff;
+  border-radius: 1rem;
+}
+
+label {
+  display: block;
+  margin: auto;
+}
+
+input {
+  width: 100%;
+  display: block;
+  padding: 5px 0;
+  margin: 16px auto 10px;
+  border-radius: 16px;
+}
+
+button {
+  display: block;
+  margin: 16px auto 0;
+  padding: 6px 32px;
+  border-radius: 1rem;
+  border: none;
+  background-color: #0099FF;
+  color: #fff;
+}
